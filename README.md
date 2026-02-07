@@ -1,3 +1,6 @@
+<img width="1897" height="914" alt="image" src="https://github.com/user-attachments/assets/1916666d-083b-43e7-b19e-72109406da51" />
+
+
 # Auralis — Next.js 15 UI Demo
 
 Auralis is a premium **AI music discovery & listening** UI concept built with **Next.js 15 (App Router)**.  
